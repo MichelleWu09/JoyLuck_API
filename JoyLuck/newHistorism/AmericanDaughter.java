@@ -1,12 +1,12 @@
 package JoyLuck.newHistorism;
 /**
- * Represent an American-born daughter of a {@link ChineseMother}, inheriting her mother's survival method using Java's {@code extends} keyword. 
+ * Represents an American-born daughter of a {@link ChineseMother}, inheriting her mother's survival method using Java's {@code extends} keyword. 
  * under the modern 1980s American society
  * 
  * <p> As a subclass of {@code ChineseMother}, {@code AmericanDaughter} inherits all methods that are included in its parent class {@code ChineseMother}.
  * However, under a different historical environment, it is possible that they override inherited methods or show completely new behaviors.</p>
  * 
- * <p> This class is instantiated inside {@link HistoricalEnvironment#CAPITALISM_AMERICA}, where the original oppresive force that justified the inherited methods
+ * <p> This class is instantiated inside {@link HistoricalEnvironment#CAPITALISM_AMERICA}, where the original oppresive force that justifies the inherited methods
  * no longer exist. These methods continue executing regardless authomatically, and produce {@link LegacySurvivalModeException}.
  * 
  * @see ChineseMother

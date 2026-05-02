@@ -2,7 +2,7 @@ package JoyLuck.newHistorism;
 /**
  * Defines historical and political contexts that determine the behaviors of characters in <em>The Joy Luck Club</em>.
  * 
- * <p>Every method in {@link ChineseMother} was compiled inside one of the Chinese environments below. 
+ * <p>Every method in {@link ChineseMother} is compiled inside one of the Chinese environments below. 
  * Every {@link LegacySurvivalModeException} occurs when those methods are executed inside {@link #CAPITALISM_AMERICA}.</p>
  * 
  * @see ChineseMother
@@ -26,18 +26,18 @@ public class HistoricalEnvironment {
 
     /**
      * Concubinage system: In China between 1920 and 1930, males could have multiple concubines, 
-     * who were considered inferior to the primary wife, with their status declining based on their numbers
+     * who were considered inferior to the primary wife, with their status declining based on their numbers.
      */
     public static final String CONCUBINE_CHINA = "1920s_Concubinage_System";
 
     /**
-     * The modern American society in the 1980s that valued individualism, freedom, and capitalism
+     * The modern American society in the 1980s that valued individualism, freedom, and capitalism.
      */
     public static final String CAPITALISM_AMERICA = "1980s_San_Francisco";
 
     /**
      * Life should be better, richer and fuller for everyone regardless of their social status, 
-     * which attracted a lot of immigrants in the 1930s in search for a better life for their future generations.
+     * which attracted a lot of immigrants in the 1950s in search for a better life for their future generations.
 
      */
     public static final String AMERICAN_DREAM = "1980s_Immigrants";

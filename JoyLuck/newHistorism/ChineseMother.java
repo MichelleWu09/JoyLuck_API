@@ -21,11 +21,11 @@ public class ChineseMother {
     private String name;
 
     /**
-     * The specific historical era that shaped the mother's worldview
+     * The specific historical era that shapes the mother's worldview
      */
     private String originEnvironment;
 
-    /** The trauma she experienced under her origin environment */
+    /** The trauma she experiences under her origin environment */
     public String individualTrauma;
 
     ChineseMother(){}
@@ -39,18 +39,18 @@ public class ChineseMother {
     /**
      * A survival method under feudal society where the power structure could not be challenged through words
      * 
-     * <p> This method was developed inside environments where women had no legal rights, no social status, and no support to against abuse </p>
+     * <p> This method is developed inside environments where women had no legal rights, no social status, and no support to against abuse </p>
      * 
-     * <p> The output of this method varies based on the character calling it, since each mother's historical environment demanded a different form of survival. </p>
+     * <p> The output of this method varies based on the character calling it, since each mother's historical environment demands a different form of survival. </p>
      * 
      * <ul>
      *  <li><b>Lindo Jong ({@link HistoricalEnvironment#PATRIARCHAL_CHINA}):
      * </b>
-     *      Lindo convinces the Hunags that their son's ancesot has cursed the marriage, using their own superstition against them.
+     *      Lindo convinces the Hunags that their son's ancestor has cursed the marriage, using their own superstition against them.
      * 
      *  <li><b>Suyuan Woo ({@link HistoricalEnvironment#WARTIME_CHINA}):
      * </b>
-     *      Suyuan uses hope as a weapon against despair after she experienced trauma from Japanese invasion into Kweilin.
+     *      Suyuan uses hope as a weapon against despair after she experiences trauma from Japanese invasion into Kweilin.
      * 
      *  <li><b>Ying-ying St. Clair ({@link HistoricalEnvironment#PATRIARCHAL_CHINA}):
      * </b>
@@ -94,7 +94,7 @@ public class ChineseMother {
      * 
      * <ol>
      *  <li><b>The language barrier: </b> Most of the time the English language has no direct equivalents for the Chinese concepts the mothers are conveying.
-     *      The word <em>suyuan</em> (long-cherished wish/hatred) cannot be translated without knowing the Kweilin trauma Suyuan experienced. </li>
+     *      The word <em>suyuan</em> (long-cherished wish/hatred) cannot be translated without knowing the Kweilin trauma Suyuan experiences. </li>
      *  <li><b>The ideology barrier: </b> Even when the words are translated successfully, the daughter's {@link HistoricalEnvironment#CAPITALISM_AMERICA} environment interpret 
      *      these stories as either nagging, superstition or manipulation. </li>
      * </ol>
@@ -111,7 +111,7 @@ public class ChineseMother {
     }
 
     /**
-     * The mothers are used to internalizing pain and suffering without outward expression, as their voices were not valued in a feudal society.
+     * The mothers are used to internalizing pain and suffering without outward expression, as their voices are not valued in a feudal society.
      * 
      * <p>The Chinese concept of <em>chi ku</em> ("eat bitterness") says that being silent without complaint is a form of moral strength.
      * In the novel, An-mei is explicitly shown as being raised in this method:
